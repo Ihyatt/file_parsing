@@ -7,11 +7,11 @@ mobydick-chapter3.txt
 mobydick-chapter4.txt
 mobydick-chapter5.txt
 
-Challenge.py:
+## Challenge.py:
 Within Challenge.py is where the TF is computed for each word. I used a class structure to 
 ensure that the code is resusable and easy to work with. 
 
-To run challeng.py, simply cd to the Ai2_challenge directory within your terminal and type 'python challenge.py'
+## To run challeng.py, simply cd to the Ai2_challenge directory within your terminal and type 'python challenge.py'
 printed to the terminal, you will see: 
 
 {'queequeg': {'mobydick-chapter4.txt': 0.006630500301386378}, 'whale': {'mobydick-chapter1.txt': 0.0013537906137184115}, 'sea': {'mobydick-chapter1.txt': 0.004512635379061372}}
